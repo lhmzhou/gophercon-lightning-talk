@@ -8,7 +8,7 @@
 		<version>2.1.9.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.gophercon</groupId>
+    <groupId>com.gophercon</groupId>
 	<artifactId>springbootdemo</artifactId>
 	<version>0.0.1</version>
 	<name>springbootdemo</name>
