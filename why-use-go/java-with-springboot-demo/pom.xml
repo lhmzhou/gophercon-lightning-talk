@@ -11,7 +11,7 @@
     <groupId>com.gophercon</groupId>
 	<artifactId>springbootdemo</artifactId>
 	<version>0.0.1</version>
-	<name>springbootdemo</name>
+	<name>java-with-springboot-demo</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
